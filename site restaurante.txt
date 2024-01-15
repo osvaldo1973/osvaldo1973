@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurante Delícias do Sabor</title>
+    <!-- Adicione links para folhas de estilo, scripts e outras dependências aqui -->
+</head>
+<body>
+    <!-- Seção de Navegação -->
+    <nav>
+        <ul>
+            <li><a href="#home">Início</a></li>
+            <li><a href="#menu">Cardápio</a></li>
+            <li><a href="#reservas">Reservas</a></li>
+            <li><a href="#sobre-nos">Sobre Nós</a></li>
+            <li><a href="#contato">Contato</a></li>
+        </ul>
+    </nav>
+
+    <!-- Seção Inicial -->
+    <section id="home">
+        <h1>Bem-vindo ao Restaurante Delícias do Sabor</h1>
+        <!-- Adicione imagens e destaque de ofertas especiais aqui -->
+    </section>
+
+    <!-- Seção de Cardápio -->
+    <section id="menu">
+        <h2>Cardápio</h2>
+        <!-- Adicione seções para categorias de pratos, descrições e imagens aqui -->
+    </section>
+
+    <!-- Seção de Reservas -->
+    <section id="reservas">
+        <h2>Reservas</h2>
+        <!-- Adicione formulário de reservas e calendário aqui -->
+    </section>
+
+    <!-- Seção Sobre Nós -->
+    <section id="sobre-nos">
+        <h2>Sobre Nós</h2>
+        <!-- Adicione história, equipe e imagens do restaurante aqui -->
+    </section>
+
+    <!-- Seção de Depoimentos -->
+    <section id="depoimentos">
+        <h2>Depoimentos</h2>
+        <!-- Adicione depoimentos de clientes aqui -->
+    </section>
+
+    <!-- Seção de Contato -->
+    <section id="contato">
+        <h2>Contato</h2>
+        <!-- Adicione formulário de contato e links para redes sociais aqui -->
+    </section>
+
+    <!-- Rodapé -->
+    <footer>
+        <p>&copy; 2024 Restaurante Delícias do Sabor. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
